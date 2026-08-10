@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lib-artnet-node-poe")(type "KiCad")(uri "${KIPRJMOD}/libs/lib-artnet-node-poe.kicad_sym")(options "")(descr ""))
+  (lib (name "NE8FAH-LR-DAE")(type "KiCad")(uri "${KIPRJMOD}/libs/NE8FAH-LR-DAE.kicad_sym")(options "")(descr ""))
+)
